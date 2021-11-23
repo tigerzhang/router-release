@@ -15,6 +15,12 @@
 http://192.168.1.1/cgi-bin/token.lua?token=<token>
 ```
 
+# 平台
+
+```
+http://tete-server.yunba.io/devices
+```
+
 # 串口修改密码
 
 * 连接串口
