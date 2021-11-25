@@ -25,10 +25,21 @@ m2minternet
 
 指定运营商为联通
 
+用浏览器打开链接
+
 ```
-ssh root@192.168.1.1
-./chinaunicom.gcom
+http://192.168.1.1/cgi-bin/chinaunicom.cgi
 ```
+
+返回
+
+```
+switch to china unicom
+AT+COPS=1,2,"46001",
+OK
+```
+
+表示切换成功。
 
 重启设备即可
 
