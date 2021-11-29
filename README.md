@@ -8,6 +8,7 @@
 # sha256 校验码
 
 * openwrt-ramips-mt76x8-u7628-01-128M-16M-squashfs-sysupgrade-20211123.bin - f3ebbf4c60f372b6294b9d4f8a83c38eb1a40a7bfd8358cd8f28093601e35369
+* openwrt-ramips-mt76x8-u7628-01-128M-16M-squashfs-sysupgrade-20211129.bin - f5b8c0a363eee403c554eae242e1f6bc7a8c23acd6388316e3cbc27a192e34c8
 
 # VPN
 
