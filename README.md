@@ -61,7 +61,7 @@ http://tete-server.yunba.io/devices
 # 串口修改密码
 
 * 连接串口
-* 敲一下 会车
+* 敲一下 回车
 
 ```
 BusyBox v1.28.3 () built-in shell (ash)
